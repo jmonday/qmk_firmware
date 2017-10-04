@@ -1,0 +1,163 @@
+[
+  {
+    "backcolor": "#ffffff",
+    "name": "Jayem Planck",
+    "notes": "### Notes\n\n - Legends on the bottom right (front) of the key list the tap modifier. Press and hold the key to use said modifier. Tapping the key will produce the ledgend listed in the center of the keycap. For example, the escape key when tapped will produce \"escape\", when held will produce \"control\".\n - Legends listed as \"𝑓X\" jump to a different layer.",
+    "switchMount": "cherry",
+    "switchBrand": "cherry",
+    "switchType": "MX1A-E1xx",
+    "css": "@import url('https://fonts.googleapis.com/css?family=Inconsolata:700');\n\n* {\n    font-family: 'Inconsolata', monospace;\n}\n\n.keylabel11 {\n    font-weight: 700;\n}",
+    "plate": true,
+    "pcb": false
+  },
+  [
+    {
+      "c": "#ffffff",
+      "sm": "cherry",
+      "sb": "cherry",
+      "st": "MX1A-E1xx",
+      "a": 7,
+      "f": 6
+    },
+    "⇥",
+    "Q",
+    "W",
+    "E",
+    "R",
+    "T",
+    "Y",
+    "U",
+    "I",
+    "O",
+    "P",
+    {
+      "c": "#684dff",
+      "t": "#ffffff",
+      "a": 3,
+      "f": 9
+    },
+    "⌫\n\n\n\n\n𝑓5"
+  ],
+  [
+    {
+      "c": "#ffffff",
+      "t": "#000000\n\n\n\n\n#0099ff",
+      "f": 6
+    },
+    "Esc\n\n\n\n\nCtrl",
+    {
+      "t": "#000000",
+      "a": 7
+    },
+    "A",
+    "S",
+    "D",
+    {
+      "c": "#b8b8b8",
+      "n": true
+    },
+    "F",
+    {
+      "c": "#ffffff"
+    },
+    "G",
+    "H",
+    {
+      "c": "#b8b8b8",
+      "n": true
+    },
+    "J",
+    {
+      "c": "#ffffff"
+    },
+    "K",
+    "L",
+    {
+      "c": "#cc0015",
+      "t": "#ffffff",
+      "a": 1
+    },
+    ":\n;\n\n\n\n𝑓4",
+    {
+      "c": "#ffffff",
+      "t": "#000000",
+      "a": 5
+    },
+    "\"\n'"
+  ],
+  [
+    {
+      "t": "#000000\n\n\n\n\n#0099ff",
+      "a": 3
+    },
+    "(\n\n\n\n\nShift",
+    {
+      "t": "#000000",
+      "a": 7
+    },
+    "Z",
+    "X",
+    "C",
+    "V",
+    "B",
+    "N",
+    "M",
+    {
+      "a": 5
+    },
+    "<\n,",
+    ">\n.",
+    "?\n/",
+    {
+      "a": 7
+    },
+    "↵"
+  ],
+  [
+    {
+      "c": "#6bb300",
+      "t": "#ffffff",
+      "a": 1
+    },
+    "|\n\\\n\n\n\n𝑓3",
+    {
+      "c": "#ffffff",
+      "t": "#000000\n\n\n\n\n#0099ff",
+      "a": 3
+    },
+    "{\n\n\n\n\nHyper",
+    "[\n\n\n\n\nAlt",
+    "-\n\n\n\n\nSuper",
+    {
+      "c": "#0099ff",
+      "t": "#ffffff",
+      "a": 7
+    },
+    "𝑓1",
+    {
+      "c": "#ffffff",
+      "t": "#000000"
+    },
+    "␣",
+    "␣",
+    {
+      "c": "#ff6600",
+      "t": "#ffffff"
+    },
+    "𝑓2",
+    {
+      "c": "#ffffff",
+      "t": "#000000\n\n\n\n\n#0099ff",
+      "a": 3
+    },
+    "=\n\n\n\n\nSuper",
+    "]\n\n\n\n\nAlt",
+    "}\n\n\n\n\nHyper",
+    {
+      "c": "#6bb300",
+      "t": "#ffffff",
+      "a": 1
+    },
+    "~\n`\n\n\n\n𝑓3"
+  ]
+]
